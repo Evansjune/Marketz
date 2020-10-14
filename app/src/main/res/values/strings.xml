@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marketz</string>
+    <string name="forgot_password_link">Forgot password?</string>
+    <string name="email_address_link">Email Address</string>
+    <string name="password_link">Password</string>
+    <string name="login_link">login</string>
+</resources>
