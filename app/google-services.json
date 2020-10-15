@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781633188606",
+    "firebase_url": "https://marketz-66448.firebaseio.com",
+    "project_id": "marketz-66448",
+    "storage_bucket": "marketz-66448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781633188606:android:3ab68be06483890515abaf",
+        "android_client_info": {
+          "package_name": "com.example.marketz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781633188606-8q95fcqddt2jer66l2md18skrtt0989q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsm_LOHqPeLexFrw_yduY2QgzzCnC8RX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781633188606-8q95fcqddt2jer66l2md18skrtt0989q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

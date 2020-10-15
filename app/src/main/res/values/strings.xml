@@ -4,4 +4,12 @@
     <string name="email_address_link">Email Address</string>
     <string name="password_link">Password</string>
     <string name="login_link">login</string>
+
+    <!--    activity_register-->
+    <string name="register">Register</string>
+
+<!--    ResetPasswordDialog-->
+    <string name="reset_password"> Reset password</string>
+    <string name="email">Email address </string>
+    <string name="confirm">Confirm</string>
 </resources>
