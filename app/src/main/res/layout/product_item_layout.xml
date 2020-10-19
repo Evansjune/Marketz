@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="20dp"
+    android:layout_marginStart="15dp"
+    android:layout_marginEnd="15dp"
+    app:cardElevation="15dp">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <TextView
+           android:id="@+id/tvProductName"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Product Name"
+           android:textStyle="bold"
+           android:textSize="20sp"
+           android:textAlignment="center"
+           android:textColor="@android:color/holo_blue_bright"/>
+       <ImageView
+           android:id="@+id/productImageView"
+           android:layout_width="match_parent"
+           android:layout_height="200dp"
+           android:layout_below="@+id/tvProductName"
+           android:scaleType="centerCrop"
+           android:layout_marginTop="2dp"/>
+       <TextView
+           android:id="@+id/tvProductPrice"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/product_price_link"
+           android:textStyle="bold"
+           android:textSize="18sp"
+           android:textAlignment="center"
+           android:layout_below="@+id/productImageView"
+           android:layout_marginTop="2dp"
+           android:textColor="@android:color/holo_blue_bright"/>
+       <TextView
+           android:id="@+id/tvProductDescription"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/product_description_link"
+           android:textStyle="bold"
+           android:textSize="16sp"
+           android:textAlignment="center"
+           android:layout_below="@+id/tvProductPrice"
+           android:layout_marginTop="2dp"
+           android:textColor="@android:color/holo_blue_bright"/>
+   </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
