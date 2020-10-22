@@ -92,24 +92,22 @@
                 android:padding="18dp"
                 android:text="@string/login_link"
                 android:textColor="@android:color/white" />
-
-
-            <ProgressBar
-                android:id="@+id/progressBar"
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentBottom="true"
-                android:layout_marginStart="131dp"
-                android:layout_marginTop="200dp"
-                android:layout_marginEnd="130dp"
-                android:layout_marginBottom="253dp"
-                android:visibility="invisible" />
         </LinearLayout>
-
     </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="130dp"
+        android:layout_marginBottom="253dp"
+        android:visibility="invisible" />
 
 
 </RelativeLayout>
