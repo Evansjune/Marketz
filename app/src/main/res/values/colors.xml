@@ -8,4 +8,8 @@
     <color name="gold">#E8E4CE3C</color>
     <color name="darkBlue">#3F51B5</color>
     <color name="black">#000000</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="colorButton">#18b6d9</color>
+    <color name="menuBackground">#40555A</color>
+    <color name="blue">#436bff</color>
 </resources>

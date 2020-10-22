@@ -32,4 +32,19 @@
     <string name="menu_logout">Logout</string>
     <string name="product_description_link">Product Description</string>
     <string name="product_price_link">Product Price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quantity_cart_link">Quantity:</string>
+    <string name="item_price_in_cart">item price in cart</string>
+    <string name="price_cart_list">Price:</string>
+    <string name="return_button">return</string>
+    <string name="cancel_button">cancel</string>
+    <string name="orderstatus_link">OrderStatus</string>
+    <string name="finalprice_link">FinalPrice</string>
+    <string name="itemquantity_link">ItemQuantity</string>
+    <string name="itemname_link">ItemName</string>
+    <string name="order_id_link">Order ID</string>
+    <string name="order_details_link">Order details</string>
+    <string name="_1_link">1</string>
+    <string name="x_link">x</string>
 </resources>
