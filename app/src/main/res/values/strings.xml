@@ -13,7 +13,12 @@
     <string name="reset_password"> Reset password</string>
     <string name="email">Email address </string>
     <string name="confirm">Confirm</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="post_ad">Post Ad</string>
     <string name="change_profile_link">Change profile</string>
+    <string name="confirm_password_link">Confirm password</string>
     <string name="change_email_address">Email address</string>
     <string name="full_name_link">Full name</string>
     <string name="address_link">Address</string>
@@ -32,4 +37,15 @@
     <string name="menu_logout">Logout</string>
     <string name="product_description_link">Product Description</string>
     <string name="product_price_link">Product Price</string>
+    <string name="all_services">All Services</string>
+    <string name="post_your_ad">Post your Ad</string>
+    <string name="business_center">Business Center</string>
+    <string name="appliances">Appliances</string>
+    <string name="electronics">Electronics</string>
+    <string name="cars">Cars</string>
+    <string name="services">Services</string>
+    <string name="property">Property</string>
+    <string name="food">Food</string>
+    <string name="beauty">Beauty</string>
+    <string name="product_review_community">Product Review Community</string>
 </resources>
