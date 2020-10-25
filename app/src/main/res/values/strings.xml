@@ -8,6 +8,18 @@
 
     <!--    activity_register-->
     <string name="register">Register</string>
+    
+    <!--category    -->
+    <string-array name="Category">
+        <item> Choose Category </item>
+        <item> Property </item>
+        <item> Food </item>
+        <item> Electronics </item>
+        <item> Vehicles </item>
+        <item> Appliance </item>
+        <item> Beauty </item>
+        <item> Business Center </item>
+    </string-array>
 
     <!--    ResetPasswordDialog-->
     <string name="reset_password"> Reset password</string>
@@ -18,7 +30,6 @@
     <string name="amount">Amount</string>
     <string name="post_ad">Post Ad</string>
     <string name="change_profile_link">Change profile</string>
-    <string name="confirm_password_link">Confirm password</string>
     <string name="change_email_address">Email address</string>
     <string name="full_name_link">Full name</string>
     <string name="address_link">Address</string>
